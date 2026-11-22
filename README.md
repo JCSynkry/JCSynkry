@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 let's share some ideas.
 
 <!--
 **JCSynkry/JCSynkry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
