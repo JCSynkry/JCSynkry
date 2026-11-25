@@ -1,21 +1,28 @@
 # Jefferson Cunningham
 
-Founder of **Synkry** in Barcelona, Spain. I build local first, zero telemetry AI privacy guardrails, deterministic personal data masking, and Zero Trust AI governance tooling.
+**Founder, [Synkry](https://synkry.com)** · Barcelona, Spain
 
-## Focus Areas
+Security and infrastructure leader helping organisations adopt AI with control over their data, their risk and their compliance obligations.
 
-* **Local First Client Privacy:** Browser and desktop masking tools that detect and replace personal identifiers locally before prompts reach external AI providers, keeping reverse unmasking vaults strictly in ephemeral local memory.
-* **Deterministic Detection & Parity:** Cross language Python and TypeScript detection engines validated with Modulo 11, Modulo 23, Modulo 97, and Luhn check digits alongside Unicode NFKC normalisation.
-* **Zero Trust AI Governance:** Runtime policy enforcement, tamper evident HMAC audit ledgers, Shadow AI discovery, and compliance evidence workflows aligned with:
-  * **European Union:** Regulation (EU) 2024/1689 (EU AI Act) as amended by Regulation (EU) 2026/1744 (Digital Omnibus on AI), alongside GDPR (Regulation (EU) 2016/679).
-  * **Brazil:** LGPD (Lei 13.709/2018), Resolução CD/ANPD nº 15/2024, and proposed AI legislation under review in the Chamber of Deputies (PL 2338/2023).
+---
 
-## Background
+### What I bring
 
-Over 15 years leading enterprise IT infrastructure, cloud security architecture, and information security governance across Europe and Latin America, currently completing a Professional Master's Degree in Governance, Technology and Innovation focused on Zero Trust AI governance under European regulation.
+- **15+ years** leading enterprise IT infrastructure, cloud security architecture and information security governance
+- **Cross-market experience** across Europe and Latin America, with a regulator's-eye view of both
+- **Builder and operator**: I take ideas from architecture to shipped product
+- **Working languages**: Portuguese (native) and English
 
-## Contact
+### Where I focus
 
-* Website: [synkry.com](https://synkry.com)
-* Privacy Policy (Synkry Personal): [synkry.com/privacy/personal](https://synkry.com/privacy/personal)
-* Security & Privacy Enquiries: `privacy@synkry.com`
+AI security · Data privacy · Regulatory readiness for the EU and Brazil (EU AI Act, GDPR, LGPD)
+
+### Open to
+
+- **Investors** backing security, privacy and AI infrastructure
+- **Design partners** adopting AI in regulated environments
+- **Strategic partners**: integrators, consultancies and channel partners in the EU and Latin America
+
+### Let's talk
+
+**[LinkedIn](https://www.linkedin.com/in/jeffersoncunningham/)** · **[synkry.com](https://synkry.com)**
